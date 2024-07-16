@@ -1,0 +1,2 @@
+10,3,quint bed
+12,3,double bed

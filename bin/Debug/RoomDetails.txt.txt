@@ -1,0 +1,7 @@
+single bed,30000
+double bed,10000
+triple bed,15000
+quad bed,20000
+quint bed,25000
+king bed,30000
+luxury bed,50000

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="BusinessApplicationGUI.BL.Customer">
+    <Position X="11" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAABEAAQAQAAAQAAAIAAAAAAAAABACAE=</HashCode>
+      <FileName>BL\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessApplicationGUI.BL.HouseHelp">
+    <Position X="6.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAgAAAAAAAAAAAAEAAAAAAAAAAQCACAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\HouseHelp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessApplicationGUI.BL.MenuItem">
+    <Position X="8" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACIAAAAQAAAAAAAQAAAAAAAgAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>BL\MenuItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessApplicationGUI.BL.Orders">
+    <Position X="11" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAQJAAAAEAAAAIIAAAAUEAABAAAQQKCIBA=</HashCode>
+      <FileName>BL\Orders.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessApplicationGUI.BL.Owner">
+    <Position X="9" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAQAAAAEAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\Owner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessApplicationGUI.BL.Person">
+    <Position X="8.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAEAQAAAAAAAAAAAAAAARAAAAIAgAA=</HashCode>
+      <FileName>BL\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessApplicationGUI.DL.CustomerDL">
+    <Position X="4.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAEAAAAABAAAA=</HashCode>
+      <FileName>DL\CustomerDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessApplicationGUI.DL.MenuItemDL">
+    <Position X="4.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAUAAAAAAAAAAAAAAAAIAAAggAAAAgAAAAEAAAAAA=</HashCode>
+      <FileName>DL\MenuItemDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessApplicationGUI.DL.OrderDL">
+    <Position X="1.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAgAAAAAggAEAQAAAAEAA=</HashCode>
+      <FileName>DL\OrderDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessApplicationGUI.DL.OwenerDL">
+    <Position X="1.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DL\OwenerDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessApplicationGUI.DL.PersonDL">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAiAEQAAAAACAAAQQAAAAAAACAAABAAAAAAAAAA=</HashCode>
+      <FileName>DL\PersonDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

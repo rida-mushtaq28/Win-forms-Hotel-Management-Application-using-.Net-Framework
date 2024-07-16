@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1CCF9661-7BFF-4A0B-ABD3-B3651C2B011A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>BusinessApplicationGUI</RootNamespace>
+    <AssemblyName>BusinessApplicationGUI</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddHoteldetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddHoteldetails.Designer.cs">
+      <DependentUpon>AddHoteldetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddHousehelp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddHousehelp.Designer.cs">
+      <DependentUpon>AddHousehelp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddOrder.Designer.cs">
+      <DependentUpon>AddOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BL\Customer.cs" />
+    <Compile Include="BL\HouseHelp.cs" />
+    <Compile Include="BL\MenuItem.cs" />
+    <Compile Include="BL\Orders.cs" />
+    <Compile Include="BL\Owner.cs" />
+    <Compile Include="BL\Person.cs" />
+    <Compile Include="CustomerMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerMenu.Designer.cs">
+      <DependentUpon>CustomerMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="deleteHotelServices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="deleteHotelServices.Designer.cs">
+      <DependentUpon>deleteHotelServices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteHouseHelpAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteHouseHelpAccount.Designer.cs">
+      <DependentUpon>DeleteHouseHelpAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteOrder.Designer.cs">
+      <DependentUpon>DeleteOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DetailsOfHotelForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DetailsOfHotelForm.Designer.cs">
+      <DependentUpon>DetailsOfHotelForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DL\CustomerDL.cs" />
+    <Compile Include="DL\HouseHelpDL.cs" />
+    <Compile Include="DL\MenuItemDL.cs" />
+    <Compile Include="DL\OrderDL.cs" />
+    <Compile Include="DL\OwenerDL.cs" />
+    <Compile Include="DL\PersonDL.cs" />
+    <Compile Include="GiveFeedBack.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GiveFeedBack.Designer.cs">
+      <DependentUpon>GiveFeedBack.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HouseHelpMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HouseHelpMenu.Designer.cs">
+      <DependentUpon>HouseHelpMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OwnerMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OwnerMenu.Designer.cs">
+      <DependentUpon>OwnerMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SignIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SignIN.Designer.cs">
+      <DependentUpon>SignIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SignUP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SignUP.Designer.cs">
+      <DependentUpon>SignUP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateHouseHelpAccountDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateHouseHelpAccountDetails.Designer.cs">
+      <DependentUpon>UpdateHouseHelpAccountDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateOrder.Designer.cs">
+      <DependentUpon>UpdateOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateServicesofHotel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateServicesofHotel.Designer.cs">
+      <DependentUpon>UpdateServicesofHotel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewHouseHelp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewHouseHelp.Designer.cs">
+      <DependentUpon>ViewHouseHelp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewOrderAndBills.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewOrderAndBills.Designer.cs">
+      <DependentUpon>ViewOrderAndBills.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddHoteldetails.resx">
+      <DependentUpon>AddHoteldetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddHousehelp.resx">
+      <DependentUpon>AddHousehelp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddOrder.resx">
+      <DependentUpon>AddOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerMenu.resx">
+      <DependentUpon>CustomerMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="deleteHotelServices.resx">
+      <DependentUpon>deleteHotelServices.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteHouseHelpAccount.resx">
+      <DependentUpon>DeleteHouseHelpAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteOrder.resx">
+      <DependentUpon>DeleteOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DetailsOfHotelForm.resx">
+      <DependentUpon>DetailsOfHotelForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GiveFeedBack.resx">
+      <DependentUpon>GiveFeedBack.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OwnerMenu.resx">
+      <DependentUpon>OwnerMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SignIN.resx">
+      <DependentUpon>SignIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="SignUP.resx">
+      <DependentUpon>SignUP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateHouseHelpAccountDetails.resx">
+      <DependentUpon>UpdateHouseHelpAccountDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateOrder.resx">
+      <DependentUpon>UpdateOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateServicesofHotel.resx">
+      <DependentUpon>UpdateServicesofHotel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewHouseHelp.resx">
+      <DependentUpon>ViewHouseHelp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewOrderAndBills.resx">
+      <DependentUpon>ViewOrderAndBills.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="BattleField.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="GUI\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

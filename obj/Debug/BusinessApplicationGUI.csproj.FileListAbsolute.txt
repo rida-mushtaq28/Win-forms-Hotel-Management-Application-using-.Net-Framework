@@ -1,0 +1,38 @@
+D:\oopAssignments\BusinessApplicationGUI\bin\Debug\BusinessApplicationGUI.exe.config
+D:\oopAssignments\BusinessApplicationGUI\bin\Debug\BusinessApplicationGUI.exe
+D:\oopAssignments\BusinessApplicationGUI\bin\Debug\BusinessApplicationGUI.pdb
+D:\oopAssignments\BusinessApplicationGUI\obj\Debug\BusinessApplicationGUI.csproj.AssemblyReference.cache
+D:\oopAssignments\BusinessApplicationGUI\obj\Debug\BusinessApplicationGUI.SignUP.resources
+D:\oopAssignments\BusinessApplicationGUI\obj\Debug\BusinessApplicationGUI.Properties.Resources.resources
+D:\oopAssignments\BusinessApplicationGUI\obj\Debug\BusinessApplicationGUI.csproj.GenerateResource.cache
+D:\oopAssignments\BusinessApplicationGUI\obj\Debug\BusinessApplicationGUI.csproj.CoreCompileInputs.cache
+D:\oopAssignments\BusinessApplicationGUI\obj\Debug\BusinessApplicationGUI.exe
+D:\oopAssignments\BusinessApplicationGUI\obj\Debug\BusinessApplicationGUI.pdb
+D:\oopAssignments\BusinessApplicationGUI\obj\Debug\BusinessApplicationGUI.SignIN.resources
+D:\UET BSCS-22\2nd Semester\Object Oriented Programming\C Sharp\BusinessApplicationGUI\bin\Debug\BusinessApplicationGUI.exe.config
+D:\UET BSCS-22\2nd Semester\Object Oriented Programming\C Sharp\BusinessApplicationGUI\bin\Debug\BusinessApplicationGUI.exe
+D:\UET BSCS-22\2nd Semester\Object Oriented Programming\C Sharp\BusinessApplicationGUI\bin\Debug\BusinessApplicationGUI.pdb
+D:\UET BSCS-22\2nd Semester\Object Oriented Programming\C Sharp\BusinessApplicationGUI\obj\Debug\BusinessApplicationGUI.csproj.AssemblyReference.cache
+D:\UET BSCS-22\2nd Semester\Object Oriented Programming\C Sharp\BusinessApplicationGUI\obj\Debug\BusinessApplicationGUI.SignIN.resources
+D:\UET BSCS-22\2nd Semester\Object Oriented Programming\C Sharp\BusinessApplicationGUI\obj\Debug\BusinessApplicationGUI.SignUP.resources
+D:\UET BSCS-22\2nd Semester\Object Oriented Programming\C Sharp\BusinessApplicationGUI\obj\Debug\BusinessApplicationGUI.Properties.Resources.resources
+D:\UET BSCS-22\2nd Semester\Object Oriented Programming\C Sharp\BusinessApplicationGUI\obj\Debug\BusinessApplicationGUI.csproj.GenerateResource.cache
+D:\UET BSCS-22\2nd Semester\Object Oriented Programming\C Sharp\BusinessApplicationGUI\obj\Debug\BusinessApplicationGUI.csproj.CoreCompileInputs.cache
+D:\UET BSCS-22\2nd Semester\Object Oriented Programming\C Sharp\BusinessApplicationGUI\obj\Debug\BusinessApplicationGUI.exe
+D:\UET BSCS-22\2nd Semester\Object Oriented Programming\C Sharp\BusinessApplicationGUI\obj\Debug\BusinessApplicationGUI.pdb
+D:\UET BSCS-22\2nd Semester\Object Oriented Programming\C Sharp\BusinessApplicationGUI\obj\Debug\BusinessApplicationGUI.OwnerMenu.resources
+D:\UET BSCS-22\2nd Semester\Object Oriented Programming\C Sharp\BusinessApplicationGUI\obj\Debug\BusinessApplicationGUI.csproj.SuggestedBindingRedirects.cache
+D:\UET BSCS-22\2nd Semester\Object Oriented Programming\C Sharp\BusinessApplicationGUI\obj\Debug\BusinessApplicationGUI.AddHoteldetails.resources
+D:\UET BSCS-22\2nd Semester\Object Oriented Programming\C Sharp\BusinessApplicationGUI\obj\Debug\BusinessApplicationGUI.DetailsOfHotelForm.resources
+D:\UET BSCS-22\2nd Semester\Object Oriented Programming\C Sharp\BusinessApplicationGUI\obj\Debug\BusinessApplicationGUI.CustomerMenu.resources
+D:\UET BSCS-22\2nd Semester\Object Oriented Programming\C Sharp\BusinessApplicationGUI\obj\Debug\BusinessApplicationGUI.UpdateServicesofHotel.resources
+D:\UET BSCS-22\2nd Semester\Object Oriented Programming\C Sharp\BusinessApplicationGUI\obj\Debug\BusinessApplicationGUI.deleteHotelServices.resources
+D:\UET BSCS-22\2nd Semester\Object Oriented Programming\C Sharp\BusinessApplicationGUI\obj\Debug\BusinessApplicationGUI.AddHousehelp.resources
+D:\UET BSCS-22\2nd Semester\Object Oriented Programming\C Sharp\BusinessApplicationGUI\obj\Debug\BusinessApplicationGUI.UpdateHouseHelpAccountDetails.resources
+D:\UET BSCS-22\2nd Semester\Object Oriented Programming\C Sharp\BusinessApplicationGUI\obj\Debug\BusinessApplicationGUI.DeleteHouseHelpAccount.resources
+D:\UET BSCS-22\2nd Semester\Object Oriented Programming\C Sharp\BusinessApplicationGUI\obj\Debug\BusinessApplicationGUI.AddOrder.resources
+D:\UET BSCS-22\2nd Semester\Object Oriented Programming\C Sharp\BusinessApplicationGUI\obj\Debug\BusinessApplicationGUI.UpdateOrder.resources
+D:\UET BSCS-22\2nd Semester\Object Oriented Programming\C Sharp\BusinessApplicationGUI\obj\Debug\BusinessApplicationGUI.DeleteOrder.resources
+D:\UET BSCS-22\2nd Semester\Object Oriented Programming\C Sharp\BusinessApplicationGUI\obj\Debug\BusinessApplicationGUI.ViewOrderAndBills.resources
+D:\UET BSCS-22\2nd Semester\Object Oriented Programming\C Sharp\BusinessApplicationGUI\obj\Debug\BusinessApplicationGUI.GiveFeedBack.resources
+D:\UET BSCS-22\2nd Semester\Object Oriented Programming\C Sharp\BusinessApplicationGUI\obj\Debug\BusinessApplicationGUI.ViewHouseHelp.resources
